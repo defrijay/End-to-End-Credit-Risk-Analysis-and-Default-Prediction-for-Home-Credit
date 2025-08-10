@@ -10,17 +10,17 @@ This project is part of a **Data Analyst & Data Scientist portfolio**, using the
 
 ## 🎯 Business Problem
 
-Many applicants lack sufficient credit history, leading to either rejection or unfavorable loan terms. Home Credit aims to:
+Many loan applicants lack a strong traditional credit history, putting them at risk of being rejected or offered less favorable loan terms. Home Credit strives to:
 
-1. Identify high-risk borrowers.
-2. Expand financial inclusion by approving safe applicants without traditional credit history.
-3. Suggest loan structures (amount, term, interest) that minimize risk.
+1. Accurately identify borrowers with a high risk of default, while
+2. Expanding financial inclusion by approving safe and viable applicants even without a traditional credit history, using alternative data such as external scores, transaction history, and payment behavior.
+3. Structuring loans (amount, term, interest rate) that minimizes the risk of default while supporting successful repayment.
 
 **Key Business Questions:**
 
-* Who is likely to default on their loans?
-* Which features most strongly predict default?
-* How can we set underwriting rules to balance approval rate and risk?
+* Who is likely to default on their loans, and who might be unfairly rejected due to lack of traditional credit history?
+* Which features, including alternative data sources, most strongly predict default or repayment capability?
+* How can we set underwriting rules that balance approval rate, financial inclusion, and credit risk?
 
 ---
 
@@ -115,15 +115,6 @@ pip install -r requirements.txt
 # 4. Run notebooks
 jupyter notebook
 ```
-
----
-
-## 📎 Deliverables
-
-* **EDA & Modeling Notebook**: Full analysis, feature engineering, and modeling.
-* **Insight Deck**: 17-slide business presentation.
-* **Model Artifacts**: Pickle/Joblib files.
-* **README.md**: Documentation.
 
 ---
 
