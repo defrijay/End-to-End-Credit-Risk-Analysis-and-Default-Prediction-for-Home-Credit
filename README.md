@@ -122,4 +122,5 @@ jupyter notebook
 
 *Defrizal Yahdiyan Risyad*
 
-[LinkedIn](#https://www.linkedin.com/in/defrizalyr?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BqZ%2B7dZzhS%2FCtdV82zspJFQ%3D%3D) | [GitHub](#https://github.com/defrijay)
+[LinkedIn](https://www.linkedin.com/in/defrizalyr?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BqZ%2B7dZzhS%2FCtdV82zspJFQ%3D%3D) | [GitHub](https://github.com/defrijay)
+
